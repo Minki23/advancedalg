@@ -25,4 +25,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m unittest citizen_manager.py
+          python -m unittest CITIZEN_DATA_MANAGER.py
