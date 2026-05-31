@@ -1,0 +1,60 @@
+2026-05-31 10:50:22,342 - INFO - Wczytano 6 obywateli z bazy danych
+2026-05-31 11:01:52,847 - INFO - Wczytano 6 obywateli z bazy danych
+2026-05-31 11:01:56,682 - INFO - Szukano obywatela 3 metod¹ liniow¹
+2026-05-31 11:07:02,975 - INFO - Wczytano 6 obywateli z bazy danych
+2026-05-31 11:09:06,868 - INFO - Dodano obywatela 10
+2026-05-31 11:09:06,868 - INFO - Dodano obywatela 10
+2026-05-31 11:25:53,663 - INFO - Obs³u¿ono rejestracjê obywatela brak
+2026-05-31 11:26:00,566 - INFO - Dodano obywatela 1 do kolejki rejestracji
+2026-05-31 11:26:02,471 - INFO - Dodano obywatela 2 do kolejki rejestracji
+2026-05-31 11:26:04,203 - INFO - Dodano obywatela 3 do kolejki rejestracji
+2026-05-31 11:26:05,592 - INFO - Dodano obywatela 4 do kolejki rejestracji
+2026-05-31 11:26:07,682 - INFO - Obs³u¿ono rejestracjê obywatela 1
+2026-05-31 11:26:08,945 - INFO - Obs³u¿ono rejestracjê obywatela 2
+2026-05-31 11:26:09,474 - INFO - Obs³u¿ono rejestracjê obywatela 3
+2026-05-31 11:26:09,877 - INFO - Obs³u¿ono rejestracjê obywatela 4
+2026-05-31 11:26:11,540 - INFO - Obs³u¿ono rejestracjê obywatela brak
+2026-05-31 11:29:09,652 - INFO - Eksportowano dane do citizens.json
+2026-05-31 11:31:33,551 - INFO - Wczytano 7 obywateli z bazy danych
+2026-05-31 11:31:36,265 - INFO - Szukano obywatela  metod¹ liniow¹
+2026-05-31 11:31:39,900 - INFO - Szukano obywatela 4 metod¹ liniow¹
+2026-05-31 11:31:51,118 - INFO - Szukano obywatela 4 metod¹ liniow¹
+2026-05-31 11:33:20,919 - INFO - Wczytano 7 obywateli z bazy danych
+2026-05-31 11:34:14,045 - INFO - Wczytano 7 obywateli z bazy danych
+2026-05-31 11:34:54,431 - INFO - Usuniêto obywatela 2
+2026-05-31 11:35:43,182 - INFO - Usuniêto obywatela 3
+2026-05-31 11:37:31,951 - INFO - Wczytano 7 obywateli z bazy danych
+2026-05-31 11:37:42,854 - INFO - Usuniêto obywatela 4
+2026-05-31 11:37:42,898 - INFO - Usuniêto obywatela 4
+2026-05-31 11:37:42,919 - INFO - Dodano obywatela 4
+2026-05-31 11:37:42,919 - INFO - Dodano obywatela 4
+2026-05-31 11:39:14,657 - INFO - Wczytano 0 obywateli z bazy danych
+2026-05-31 11:39:14,657 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,658 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,658 - INFO - Wczytano 0 obywateli z bazy danych
+2026-05-31 11:39:14,658 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,658 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,658 - INFO - Usuniêto obywatela 1
+2026-05-31 11:39:14,658 - INFO - Usuniêto obywatela 1
+2026-05-31 11:39:14,659 - INFO - Wczytano 0 obywateli z bazy danych
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 1
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 2
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 2
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 3
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 3
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 1 do kolejki rejestracji
+2026-05-31 11:39:14,659 - INFO - Dodano obywatela 2 do kolejki rejestracji
+2026-05-31 11:39:14,660 - INFO - Dodano obywatela 3 do kolejki rejestracji
+2026-05-31 11:39:14,660 - INFO - Obs³u¿ono rejestracjê obywatela 1
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 1
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 1
+2026-05-31 11:39:14,660 - INFO - Obs³u¿ono rejestracjê obywatela 2
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 2
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 2
+2026-05-31 11:39:14,660 - INFO - Obs³u¿ono rejestracjê obywatela 3
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 3
+2026-05-31 11:39:14,660 - INFO - Usuniêto obywatela 3
+2026-05-31 11:39:14,660 - INFO - Obs³u¿ono rejestracjê obywatela brak
+2026-05-31 11:43:44,401 - INFO - Wczytano 7 obywateli z bazy danych
+2026-05-31 11:43:48,021 - INFO - Wczytano 7 obywateli z bazy danych
